@@ -30,6 +30,3 @@ You will see a blue indicator that shows the surface your camera is pointing at.
 You will see the buildings after tapping the screen. The indicator will be gone, and you can view description by tapping any object. 
 ![alt text](./Screenshots/description.PNG)
 The description then will be shown above the building. Tap again to hide.
-## Todo
-- Use UI text to display description instead of MeshText
-- Fix box colliders
