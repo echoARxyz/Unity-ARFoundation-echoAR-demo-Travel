@@ -1,4 +1,4 @@
-# Unity-ARFoundation-echoAR-demo-Traveling-Demo
+# Unity-ARFoundation-echoAR-demo-Travel
 A traveling Demo created with Unity, AR Foundation, and echoAR.
 
 ## Register
